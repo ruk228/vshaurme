@@ -1,5 +1,0 @@
-# Auto detect text files and perform LF normalization
-/.idea
-/.DS_Store 
-/.vscode
-*.sqlite3
